@@ -1,7 +1,7 @@
 
 # macOS Services Reset Script
 
-This script safely restarts essential macOS services, including Finder, Dock, SystemUIServer, and networking services, to resolve common UI and network issues.
+This script safely restarts essential macOS services, including Finder, Dock, SystemUIServer, and networking services, to resolve common UI and network issues. Don't rush to restart Mac to solve the problem, this might solve it. 
 
 ## How to Run
 
